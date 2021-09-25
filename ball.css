@@ -1,0 +1,1229 @@
+ @media (min-width: 1200px){
+[class*=tt-rw].cle-4>* {
+    flex: 0 0 15%!Important;
+    max-width: 15% !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+}
+@media (min-width: 1900px){
+[class*=tt-rw].cle-4>* {
+    flex: 0 0 20%!Important;
+    max-width: 20% !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+}
+.menuresp {
+    
+    margin-top: 3rem;
+}
+.menuresp .menu ul.resp li:last-child {
+    border-bottom: 0;
+    margin-left: 0.6rem;
+}
+.menuresp .menu ul.resp li a {
+    
+    border: none;
+}
+.menuresp .menu .user .gravatar {
+    float: left;
+    width: 75px;
+    height: 75px;
+}
+div.widget.widget_ttcomments{
+    border-color: transparent !important;
+}
+@media (min-width:1025px) and (max-width:9999px){
+    #more-m{
+        display:none;
+    }
+}
+    @media (min-width:0px) and (max-width:1024px){
+        #title-m{
+            text-align: left;
+    width: 100%;
+        }
+        .title-bx {
+    text-align: left!important;
+}
+.sidebar{
+    
+}
+
+        #more-m{
+            display:block;
+            padding: 5px;
+    float: right;
+        }
+        .tt-btn-sm {
+   z-index: 11;
+    position: relative;
+    transition: all .1s ease-in-out;
+    float: right!important;
+    padding: 0px!important;
+    font-size: 0.75rem!important;
+    display: block;
+    margin-right: 0!important;
+    margin-top: -50px!important;
+}
+.dropbtn {
+    background-color: #ffffff;
+    color: #060606;
+    padding: 0px 5px 0px 5px!important;
+    font-size: 0!important;
+    border: none;
+}
+    }
+ #tag-ep{
+    position: absolute !Important;
+    background: red !Important;;
+    color: aliceblue;
+    font-size: 11px;
+    margin-bottom: 0rem;
+    margin-top: 0.3rem;
+}
+.title-bx:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 70px;
+    height: 33px;
+    border-bottom: 2px solid #fff;
+}
+.sombra{
+    background: -webkit-linear-gradient(to top,rgba(0,0,0,.8) 60%,rgba(0,0,0,.05) 100%);
+    background: linear-gradient(to top,rgba(0,0,0,.8) 60%,rgba(0,0,0,.05) 100%);
+    padding-top: 40px;
+    font-size: 1em;
+    position: absolute;
+    right: 0;
+    left: 0.3rem;
+    width: 100%;
+    bottom: 5px;
+}
+#filtro{
+    background: #454448;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    padding: 10px;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+.hentai.episode {
+    overflow: hidden;
+    width: calc(100%/1);
+    float: left;
+}
+.hentai.episode {
+    overflow: hidden;
+    padding: 5px;
+}
+
+    :root{
+    --body: #131313;
+    --text: #959595;
+    --link: #fff;
+    --link-hover: #EA4C89;
+    --primary: #EA4C89;
+    --dark: #2c2c2c;
+    --light: #fff;
+    --gray: #2c2c2c;
+    --gray-light: #999;
+    --gray-dark: #1E1E1E;
+    --success: #4CC6EA;
+    --danger: #EA4C89;
+    --warning: #EAAA4C;
+    --size: .9375rem;
+    --space: .9375rem;
+    --family: 'Noto Sans HK', sans-serif;
+    --grid: 130px 
+}
+:root body.w{
+    --body: #fff;
+    --text: #757575;
+    --link: #000;
+    --gray: #F5F5F5;
+    --gray-light: #F5F5F5;
+    --gray-dark: #F5F5F5 
+}
+#aa-wp{
+    min-height:100vh;
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    -ms-flex-direction:column;
+    flex-direction:column
+}
+#aa-wp>.bd{
+    -webkit-box-flex:1;
+    -ms-flex:1 0 auto;
+    flex:1 0 auto
+}
+.cont,ul.slick-dots{
+    margin:0 auto!important;
+    padding-left:calc(1.5 * var(--size));
+    display:none!important;
+    padding-right:calc(1.5 * var(--size));
+    width:100%
+}
+@media(min-width:768px){
+    .cont,ul.slick-dots{
+        max-width:720px
+    }
+}
+@media(min-width:992px){
+    .cont,ul.slick-dots{
+        max-width:960px
+    }
+}
+@media(min-width:1200px){
+    .cont,ul.slick-dots{
+        max-width:1210px
+    }
+}
+@media(min-width:1600px){
+    .cont,ul.slick-dots{
+        max-width:1460px
+    }
+}
+
+@media (min-width:0px) and (max-width:1024px){
+    .hentai.episode {
+    width: calc(100%/1);
+    
+}
+#mobile-footer{
+    display:none;
+}
+.comments-area {
+    padding: 0!important;
+}
+#filtro{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.post {
+    position: relative;
+    padding-bottom: .5rem;
+}
+.hentai .h-header{
+    width:98%!important;
+}
+.hentai.episode .h-header .num-episode {
+    margin-bottom: 0.5rem!important;
+}
+}
+@media (min-width:1025px) and (max-width:1230px){
+    
+}
+@media (min-width:1325px) and (max-width:1370px){
+    .hentai .h-header {
+    width: 98.2%!important;
+    }
+}
+    
+@media (min-width:1371px) and (max-width:1499px){
+    
+}
+@media (min-width:1500px) and (max-width:1699px){
+    
+}
+@media (min-width:1900px) and (max-width:1930px){
+    .sombra{
+       
+    }
+    .hentai .h-header{
+    width: 98.3% !important;
+}
+}
+
+textarea{
+    overflow:auto;
+    min-height:6rem;
+    max-width:100%;
+    height:auto;
+    resize:vertical;
+    padding:1rem var(--size) var(--size);
+    max-height:15rem
+}
+.val-ok .val{
+    color:var(--success)
+}
+.val-no .val{
+    color:var(--danger)
+}
+
+select{
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    background-image:url(data:image/svg+xml;
+    base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc4LjYyNScgaGVpZ2h0PScxMicgdmlld0JveD0nMCAwIDguNjI1IDEyJz48ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMTYuOTM0IC01Ni45NSknPjxwYXRoIGQ9J00xNy42Niw2My45MTVoNy4xNzRhLjcyNC43MjQsMCwwLDEsLjUxMiwxLjIzNmwtMy41ODcsMy41ODdhLjcyLjcyLDAsMCwxLTEuMDIyLDBsLTMuNTktMy41ODdBLjcyNC43MjQsMCwwLDEsMTcuNjYsNjMuOTE1Wm03LjY4Ny0zLjE2NS0zLjU4Ny0zLjU4N2EuNzIuNzIsMCwwLDAtMS4wMjIsMGwtMy41OSwzLjU4N2EuNzI0LjcyNCwwLDAsMCwuNTEyLDEuMjM2aDcuMTc0QS43MjQuNzI0LDAsMCwwLDI1LjM0Niw2MC43NVonIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDAgMCknIGZpbGw9JyM5OTknLz48L2c+PC9zdmc+);
+    background-position:right var(--size) center;
+    background-repeat:no-repeat;
+    background-size:.575rem;
+    padding-right:3rem
+}
+
+[class*=msg-]:before{
+    background-color:currentColor;
+    opacity:.1
+}
+[class*=msg-]:after{
+    border:1px solid currentColor;
+    opacity:.2
+}
+[class*=msg-] p:before{
+    margin-right:.5rem
+}
+[class*=msg-] a{
+    color:currentColor;
+    font-weight:700
+}
+[class*=msg-] a:hover{
+    text-decoration:underline
+}
+[class*=msg-]>i{
+    margin-right:.5rem
+}
+[class*=msg-]:last-child{
+    margin-bottom:0
+}
+.msg-w{
+    color:var(--warning)
+}
+.msg-d{
+    color:var(--danger)
+}
+.msg-s{
+    color:var(--success)
+}
+.note{
+    font-size:.75rem;
+    padding-top:.5rem;
+    display:block;
+    opacity:.7
+}
+@font-face{
+    font-family:hentai-la;
+    src:url(http://animeground.com.br/hentai-la.ttf?shjs4f) format("truetype");
+    font-weight:400;
+    font-style:normal;
+    font-display:block
+}
+
+.fa-moon:before{
+    content:"\ea02"
+}
+.fa-sun:before{
+    content:"\ea03"
+}
+.fa-search:before{
+    content:"\ea04"
+}
+.fa-play-circle:before{
+    content:"\ea05"
+}
+.fa-play:before{
+    content:"\ea06"
+}
+.fa-heart:before{
+    content:"\ea07"
+}
+.fa-twitter:before{
+    content:"\ea08"
+}
+.fa-facebook:before{
+    content:"\ea09"
+}
+.fa-down:before,.has-children>a:after,.widget-filter .section-title:after{
+    content:"\ea0a"
+}
+.fa-plus:before{
+    content:"\ea0b"
+}
+.fa-folders:before{
+    content:"\ea0c"
+}
+.fa-thumbs-up:before{
+    content:"\ea0d"
+}
+.fa-thumbs-down:before{
+    content:"\ea0e"
+}
+.fa-share:before{
+    content:"\ea0f"
+}
+.fa-star:before{
+    content:"\ea10"
+}
+.fa-send:before{
+    content:"\ea11"
+}
+.fa-reply:before{
+    content:"\ea12"
+}
+.fa-flag:before{
+    content:"\ea13"
+}
+.fa-arrow-left:before{
+    content:"\ea14"
+}
+.fa-arrow-right:before{
+    content:"\ea15"
+}
+.fa-right:before,.breadcrumb a:after{
+    content:"\ea16"
+}
+.fa-download:before{
+    content:"\ea17"
+}
+.fa-check-b:before{
+    content:"\ea18"
+}
+.fa-check:before{
+    content:"\ea19"
+}
+.fa-upload:before{
+    content:"\ea1a"
+}
+.fa-comment:before{
+    content:"\ea1b"
+}
+.fa-times:before{
+    content:"\ea1c"
+}
+.fa-list:before{
+    content:"\ea1d"
+}
+.fa-user:before{
+    content:"\ea1e"
+}
+.slick-slider{
+    position:relative;
+    display:block;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    -webkit-touch-callout:none;
+    -khtml-user-select:none;
+    -ms-touch-action:pan-y;
+    touch-action:pan-y;
+    -webkit-tap-highlight-color:transparent
+}
+.slick-list{
+    position:relative;
+    display:block;
+    overflow:hidden;
+    margin:0;
+    padding:0
+}
+.slick-list:focus{
+    outline:none
+}
+.slick-list.dragging{
+    cursor:pointer;
+    cursor:hand
+}
+.slick-slider .slick-track,.slick-slider .slick-list{
+    -webkit-transform:translate3d(0,0,0);
+    transform:translate3d(0,0,0)
+}
+.slick-track{
+    position:relative;
+    top:0;
+    left:0;
+    display:block;
+    margin-left:auto;
+    margin-right:auto
+}
+.slick-track:before,.slick-track:after{
+    display:table;
+    content:''
+}
+.slick-track:after{
+    clear:both
+}
+.slick-loading .slick-track{
+    visibility:hidden
+}
+.slick-slide{
+    display:none;
+    float:left;
+    height:100%;
+    min-height:1px
+}
+[dir=rtl] .slick-slide{
+    float:right
+}
+.slick-slide img{
+    display:block
+}
+.slick-slide.slick-loading img{
+    display:none
+}
+.slick-slide.dragging img{
+    pointer-events:none
+}
+.slick-initialized .slick-slide{
+    display:block
+}
+.slick-loading .slick-slide{
+    visibility:hidden
+}
+.slick-vertical .slick-slide{
+    display:block;
+    height:auto;
+    border:1px solid transparent
+}
+.slick-arrow.slick-hidden{
+    display:none
+}
+.hd{
+    position:relative;
+    z-index:10;
+    border-bottom:1px solid var(--gray);
+    background-color:var(--body)
+}
+.hd .top .cont{
+    padding-top:var(--space);
+    padding-bottom:var(--space);
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-align:center;
+    -ms-flex-align:center;
+    align-items:center;
+    position:relative
+}
+.hd .top .cont .logo{
+    margin-right:var(--space)
+}
+.hd .mode,.hd .user-box{
+    min-width:3rem
+}
+.hd .mode{
+    margin-right:.5rem
+}
+.hd .mode .btn-mode{
+    font-size:1.5rem;
+    color:var(--primary)
+}
+.hd .mode .btn-mode .fa-moon{
+    display:none
+}
+.hd .mode .btn-mode.on .fa-moon{
+    display:block
+}
+.hd .mode .btn-mode.on .fa-sun{
+    display:none
+}
+.hd .user-box .sub-menu{
+    min-width:15rem
+}
+.hd .user-box .sub-menu li:before{
+    opacity:.3
+}
+.hd .user-box .sub-menu li:hover:before{
+    opacity:1;
+    color:var(--primary)
+}
+
+.carousel{
+    white-space:nowrap;
+    overflow-x:auto;
+    overflow-y:hidden;
+    padding:.5rem 0;
+    margin:-.5rem 0
+}
+.carousel .hentai{
+    display:inline-block;
+    vertical-align:top;
+    white-space:normal;
+    width:210px;
+    margin-right:var(--space)
+}
+.carousel .hentai:last-child{
+    margin-right:0
+}
+.hentai{
+    position:relative
+}
+.hentai .h-header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    color: var(--light);
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,0)),color-stop(50%,rgba(0,0,0,0)),to(rgb(0 0 0 / 0%)));
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 50%,rgb(47 44 56 / 0%) 100%) -ms-flex-wrap:wrap;
+    flex-wrap: wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-line-pack: end;
+    align-content: flex-end;
+    text-align: center;
+    padding: 1rem;
+    border-radius: .25rem;
+}
+.hentai .h-header>*{
+    -webkit-box-flex:0;
+    -ms-flex:0 0 100%;
+    flex:0 0 100%;
+    margin-bottom:0
+}
+.hentai .h-header .h-title{
+    font-size:.875rem
+}
+.hentai.episode{
+    overflow:hidden
+}
+.hentai.episode .h-header{
+    text-align:left;
+    padding:.5em;
+    overflow:hidden;
+    -webkit-transition:.3s;
+    transition:.3s;
+    -webkit-backface-visibility:hidden;
+    backface-visibility:hidden
+}
+.hentai.episode .h-header .h-title{
+    font-size: .75rem;
+    font-family: 'Roboto';
+    white-space: nowrap;
+    margin-bottom: 0.4rem;
+    overflow: hidden;
+    z-index: 1;
+    text-overflow: ellipsis;
+}
+.hentai.episode .h-header time{
+    font-size:.65rem;
+    display:none;
+}
+.hentai.episode .h-header .num-episode{
+    margin-left:-.5rem;
+    margin-bottom:.9rem;
+    background-color:var(--light);
+    color:var(--dark);
+    font-size:.65rem;
+    display:inline-block;
+    vertical-align:top;
+    -webkit-box-flex:0;
+    z-index:10;
+    -ms-flex:0 0 auto;
+    flex:0 0 auto;
+    padding:0 .5rem;
+    line-height:1rem;
+    border-radius:0 .5rem .5rem 0;
+    font-weight:700
+}
+.hentai.episode .fa-play-circle:before{
+    font-size:1rem;
+    height:1rem;
+    width:1rem;
+    position:absolute;
+    right:.5rem;
+    bottom:.5rem;
+    line-height:1rem;
+    color:var(--light);
+    -webkit-transition:.3s ease-in-out;
+    transition:.3s ease-in-out;
+    border-radius:50%;
+    -webkit-backface-visibility:hidden;
+    backface-visibility:hidden
+}
+.hentai.episode:not(.sm):hover .h-header{
+    opacity:0;
+    -webkit-transform:scale(2);
+    transform:scale(2)
+}
+.hentai.episode:not(.sm):hover .h-thumb figure img{
+    -webkit-filter:blur(8px) opacity(.5);
+    filter:blur(8px) opacity(.5)
+}
+.hentai.episode:not(.sm):hover .fa-play-circle:before{
+    -webkit-transform:scale(2) translate(50%,50%);
+    transform:scale(2) translate(50%,50%);
+    bottom:calc(50% + .5rem);
+    right:calc(50% + .5rem);
+    background-color:rgba(255,255,255,.2);
+    -webkit-box-shadow:0 0 0 2px rgba(255,255,255,.2);
+    box-shadow:0 0 0 2px rgba(255,255,255,.2)
+}
+.favorites{
+    height:1.5rem;
+    line-height:1.3rem;
+    border-radius:0 .5rem 0 .5rem;
+    background-color:var(--primary);
+    color:var(--light);
+    font-size:.75rem;
+    position:absolute;
+    right:-.25rem;
+    top:-.25rem;
+    padding:0 .5rem
+}
+.favorites:before{
+    font-size:.875rem;
+    margin-right:.25rem
+}
+.h-content h1,.h-content h2,.h-content h3,.h-content h4,.h-content h5,.h-content h6{
+    color:var(--link);
+    font-size:1.25rem;
+    margin-bottom:.5rem
+}
+.h-content>*:last-child{
+    margin-bottom:0
+}
+.h-content .content-title{
+    font-size:1rem;
+    padding-left:1rem;
+    border-left:3px solid var(--primary);
+    line-height:1.5rem;
+    margin-bottom:1rem
+}
+.h-content .content-title:before{
+    content:attr(title);
+    display:block;
+    color:var(--primary);
+    font-size:.65rem;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    line-height:1rem
+}
+.h-thumb figure{
+    position:relative;
+    padding-top:150%;
+    overflow:hidden;
+    border-radius:.25rem
+}
+.h-thumb figure img{
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    -o-object-fit:cover;
+    object-fit:cover;
+    border-radius:inherit;
+    -webkit-transition:.3s;
+    transition:.3s;
+    -webkit-backface-visibility:hidden;
+    backface-visibility:hidden
+}
+.hentai.episode .h-thumb figure{
+    padding-top:56.25%
+}
+.hentai:hover .h-thumb figure img{
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1)
+}
+.h-meta>*{
+    font-size:.75rem;
+    line-height:1.5rem;
+    display:inline-block;
+    height:1.5rem;
+    vertical-align:top;
+    margin-right:1rem;
+    margin-bottom:.5rem
+}
+.h-meta>*:last-child{
+    margin-right:0
+}
+.h-meta>span>span{
+    font-weight:700
+}
+   
+    .dropdown-content {
+    min-width: 150px!important;
+}
+ .pswp__preloader__icn {
+  opacity:0.75;
+  width: 25px;
+  height: 25px;
+  margin-left:auto;
+  margin-right:auto;
+  -webkit-animation: clockwise 500ms linear infinite;
+  animation: clockwise 500ms linear infinite;
+}
+
+/* The idea of animating inner circle is based on Polymer loading indicator by Keanu Lee https://blog.keanulee.com/2014/10/20/the-tale-of-three-spinners.html */
+.pswp__preloader__cut {
+  position: relative;
+  width: 17px;
+  height: 24px;
+  overflow: hidden;
+  
+    position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.pswp__preloader__donut--fake {
+   box-sizing: border-box;
+
+  width: 25px;
+	height: 25px;
+	
+  
+  border: 2px solid red;
+   border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+	background: none;
+	margin:0;
+}
+
+.pswp__preloader__donut {
+  box-sizing: border-box;
+
+  width: 25px;
+	height: 25px;
+	
+  
+  border: 2px solid #FFF;
+   border-radius: 50%;
+  border-left-color: transparent;
+  border-bottom-color: transparent;
+  
+    position: absolute;
+  top: 0;
+  left: 0;
+ 
+  
+  
+	position: absolute;
+  top: 0;
+  left: 0;
+  
+	background: none;
+	margin:0;
+  
+    -webkit-animation: donut-rotate 1000ms cubic-bezier(.4,0,.22,1) infinite;
+  animation: donut-rotate 1000ms cubic-bezier(.4,0,.22,1) infinite;
+
+}
+
+
+@-webkit-keyframes clockwise {
+  0% { -webkit-transform: rotate(0deg) }
+  100% { -webkit-transform: rotate(360deg) }
+}
+@keyframes clockwise {
+  0% { transform: rotate(0deg) }
+  100% { transform: rotate(360deg) }
+}
+@-webkit-keyframes donut-rotate {
+  0% { -webkit-transform: rotate(0) }
+  50% { -webkit-transform: rotate(-140deg) }
+  100% { -webkit-transform: rotate(0) }
+}
+@keyframes donut-rotate {
+  0% { transform: rotate(0) }
+  50% { transform: rotate(-140deg) }
+  100% { transform: rotate(0) }
+}
+.dropbtn {
+    background-color: #ffffff;
+    color: #060606;
+    padding: 5px 10px 5px 10px;
+    font-size: 11px;
+    border: none;
+    border-radius: 5px;
+}
+.tt-btn-sm {
+    z-index: 11;
+    position: relative;
+    transition: all .1s ease-in-out;
+    float: right;
+    padding: 0px 1.25rem;
+    font-size: .75rem;
+    display: block;
+    margin-right: -17px;
+    margin-top: -50px;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #18191a;
+    min-width: 130px;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    z-index: 1;
+}
+
+.dropdown-content a {
+  color: #ffe4e4;
+  padding: 13px 13px;
+  font-size: 10px;
+      text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #684d9a;color: aliceblue;}
+
+.tt-btn-sm:hover .dropdown-content {display: block; z-index: 11;}
+
+.tt-btn-sm:hover .dropbtn {background-color: #684d9a;color: aliceblue;}
+.title-bx>.tt-btn {
+    float: right;
+    display: none;
+}
+    
+a {
+  color: #fff;
+  text-decoration: none;
+}
+h1 img{
+    width: 70px;
+}
+.pg-footer {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.footer {
+    background-color: #37353c;
+    color: #fff;
+    z-index: -1;
+    padding: 0!important;
+}
+.footer-wave-svg {
+    background-color: transparent;
+    display: block;
+    height: 30px;
+    position: relative;
+    top: -1px;
+    width: 100%;
+}
+.footer-wave-path {
+    fill: #2f2c38;
+}
+
+.footer-content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1230px;
+    padding: 40px 15px 450px;
+    position: relative;
+}
+
+.footer-content-column {
+    box-sizing: border-box;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    color: #fff;
+}
+
+.footer-content-column ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-logo-link {
+    display: inline-block;
+}
+.footer-menu {
+    margin-top: 30px;
+}
+
+.footer-menu-name {
+    color: #fffff2;
+    font-size: 15px;
+    font-weight: 900;
+    letter-spacing: .1em;
+    line-height: 18px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+.footer-menu-list {
+    list-style: none;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-left: 0;
+}
+.footer-menu-list li {
+    margin-top: 5px;
+}
+
+.footer-call-to-action-description {
+    color: #fffff2;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.footer-call-to-action-button:hover {
+    background-color: #fffff2;
+    color: #00bef0;
+}
+.button:last-of-type {
+    margin-right: 0;
+}
+.footer-call-to-action-button {
+    background-color: #027b9a;
+    border-radius: 21px;
+    color: #fffff2;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 900;
+    letter-spacing: .1em;
+    line-height: 18px;
+    padding: 12px 30px;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background-color .2s;
+    cursor: pointer;
+    position: relative;
+}
+.footer-call-to-action {
+    margin-top: 30px;
+}
+.footer-call-to-action-title {
+    color: #fffff2;
+    font-size: 14px;
+    font-weight: 900;
+    letter-spacing: .1em;
+    line-height: 18px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+.footer-call-to-action-link-wrapper {
+    margin-bottom: 0;
+    margin-top: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.footer-call-to-action-link-wrapper a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+.footer-social-links {
+    bottom: 0;
+    height: 54px;
+    position: absolute;
+    right: 0;
+    width: 236px;
+}
+
+.footer-social-amoeba-svg {
+    height: 54px;
+    left: 0;
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 236px;
+}
+
+.footer-social-amoeba-path {
+    fill: #027b9a;
+}
+
+.footer-social-link.linkedin {
+    height: 26px;
+    left: 3px;
+    top: 11px;
+    width: 26px;
+}
+
+.footer-social-link {
+    display: block;
+    padding: 10px;
+    position: absolute;
+}
+
+.hidden-link-text {
+    position: absolute;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px,1px,1px,1px);
+    -webkit-clip-path: inset(0px 0px 99.9% 99.9%);
+    clip-path: inset(0px 0px 99.9% 99.9%);
+    overflow: hidden;
+    height: 1px;
+    width: 1px;
+    padding: 0;
+    border: 0;
+    top: 50%;
+}
+
+.footer-social-icon-svg {
+    display: block;
+}
+
+.footer-social-icon-path {
+    fill: #fffff2;
+    transition: fill .2s;
+}
+
+.footer-social-link.twitter {
+    height: 28px;
+    left: 62px;
+    top: 3px;
+    width: 28px;
+}
+
+.footer-social-link.youtube {
+    height: 24px;
+    left: 123px;
+    top: 12px;
+    width: 24px;
+}
+
+.footer-social-link.github {
+    height: 34px;
+    left: 172px;
+    top: 7px;
+    width: 34px;
+}
+
+.footer-copyright {
+    background-color: #45434a;
+    color: #fff;
+    padding: 15px 30px;
+  text-align: center;
+}
+
+.footer-copyright-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+}
+
+.footer-copyright-text {
+  color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.footer-copyright-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+/* Media Query For different screens */
+@media (min-width:320px) and (max-width:479px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+  .footer-content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1230px;
+    padding: 40px 15px 1050px;
+    position: relative;
+  }
+}
+@media (min-width:480px) and (max-width:599px)  { /* smartphones, Android phones, landscape iPhone */
+  .footer-content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1230px;
+    padding: 40px 15px 1050px;
+    position: relative;
+  }
+}
+@media (min-width:600px) and (max-width: 800px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
+  .footer-content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1230px;
+    padding: 40px 15px 1050px;
+    position: relative;
+  }
+}
+@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */
+
+}
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */
+
+}
+@media (min-width:1281px) { /* hi-res laptops and desktops */
+
+}
+
+
+
+
+@media (min-width: 760px) {
+  .footer-content {
+     margin-left: auto;
+    margin-right: auto;
+    max-width: 1230px;
+    padding: 0px 15px 230px;
+    position: relative;
+  }
+
+  .footer-wave-svg {
+      height: 50px;
+  }
+
+  .footer-content-column {
+      width: 24.99%;
+    margin-left: 6rem;
+  }
+  
+}
+@media (min-width: 568px) {
+  /* .footer-content-column {
+      width: 49.99%;
+  } */
+}
+.footer-social-links {
+    display: none;
+}
+@media (min-width:0px) and (max-width:900px){
+    .footer-copyright{
+        background:transparent;
+    }
+    .footer-menu {
+    margin-top: 30px;
+    text-align: center;
+}
+.footer-content-column{
+    text-align:center;
+}
+.button:last-of-type {
+    margin-right: 0;
+    float: initial;
+}
+.footer-content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1230px;
+    padding: 0px 15px 10px !important;
+    position: relative;
+}
+}
