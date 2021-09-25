@@ -1,0 +1,104 @@
+ #img{
+        width: 75px;
+    height: 75px;
+    }
+#contenedor {
+    max-width: 85%!important;
+}
+ .wp-content {
+    margin-top: 1rem;
+}
+ .wp-content p:last-child {
+    margin-bottom: 0;
+    text-align: center;
+}
+ #avatar {
+     width:48px;
+     height:48px;
+ }
+ .row_list_box {
+    width: 100%;
+    float: left;
+    background: #232323;
+    margin-bottom: 10px;
+}
+.row_list_box .rows_list:first-child {
+    border-top: 1px solid #333;
+}
+.row_list_box .rows_list {
+    width: 100%;
+    float: left;
+    color: #fff;
+    padding: 10px;
+    clear: both;
+    border: 1px solid #333;
+    background: #272727;
+    border-top: 0;
+    cursor: pointer;
+}
+.row_list_box .rows_list .img {
+    width: 48px;
+    height: 48px;
+    float: left;
+    border-radius: 10%;
+}
+.row_list_box .rows_list .box {
+    height: 48px;
+    margin: 0;
+}
+.row_list_box .rows_list .box, .row_list_box .rows_list .boxDown {
+    position: relative;
+    width: calc(100% - 58px);
+    float: right;
+    padding: 0 5px;
+}
+.row_list_box .rows_list .box a {
+    display: block!important;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-style: italic;
+}
+.row_list_box .rows_list .boxDown {
+    height: auto;
+    vertical-align: middle;
+    margin: -24px 0 0;
+}
+.row_list_box .rows_list .box, .row_list_box .rows_list .boxDown {
+    position: relative;
+    width: calc(100% - 58px);
+    float: right;
+    padding: 0 5px;
+}
+.friend_box_list_iten {
+    padding-right: 1%;
+}
+.row_list_box .rows_list .boxDown {
+    height: auto;
+    vertical-align: middle;
+    margin: -24px 0 0;
+}
+.row_list_box .rows_list:first-child {
+    border-top: 1px solid #333;
+}
+.row_list_box .rows_list {
+    width: 100%;
+    float: left;
+    color: #fff;
+    padding: 10px;
+    clear: both;
+    border: 1px solid #333;
+    background: #272727;
+    border-top: 0;
+    cursor: pointer;
+}
+.top-usuarios{
+    width: calc(100%/10);
+    float: left;
+}
+.friend_box_list_iten img {
+    width: 20px;
+    margin: -5px 5px;
+}

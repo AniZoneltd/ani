@@ -1,0 +1,173 @@
+html, body {
+    overflow-x: hidden!important;
+}
+.col-12 {
+    
+    margin-top: 1rem;
+}
+#sinopse.media--title h3 span.material-icons,#icon-elenco{
+    position: absolute;
+    margin: -0.3rem -2rem;
+}
+.sinopse{
+    text-align: center;
+    margin-bottom: 0.7rem;
+}
+#elenco{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.tooltip::before{
+    
+}
+#sta{
+    margin: 3px;
+    color: white;
+}
+#sinopse.media--title p{
+    color: #adadad!important;
+}
+#single .sidebar {
+    background: transparent;
+    background: #352f3e!important;
+}
+.pag_episodes {
+    border-bottom: none!important;
+    margin-bottom: 0 !IMPORTANT;
+    float: right;
+    width: 221px;
+}
+.pag_episodes .item {
+    border-right: solid 1px #352f3e !IMPORTANT;
+}
+.pag_episodes .item {
+    border-right: solid 1px #352f3e !IMPORTANT;
+}
+.pag_episodes .item a {
+    color: rgba(255, 255, 255, 0.6);
+    background: rgb(88 83 101);
+    box-shadow: -1px 0px 5px -1px #f3c669;
+}
+.pag_episodes .item a {
+    padding: 0.7rem !IMPORTANT;
+    float: left;
+    width: 100%;
+}
+.spoiler-head {
+    background: #de2e42;
+    border: transparent;
+    color: aliceblue;
+    border-radius: 5px;
+}
+.spoiler-body {
+    background: transparent;
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: transparent;
+}
+.spoiler-wrap{
+    padding:10px;
+}
+@media only screen and (min-width: 1915px) and (max-width: 1999px){
+.htv-video-page-action-bar .title-views {
+    padding: 4px 8px;
+   
+}
+#downloadv2{
+    width:105%!important;
+}
+.htv-video-page-action-bar .actions {
+    position: relative;
+    width: 50%;
+}
+.pag_episodes {
+    border-bottom: none!important;
+    margin-bottom: 0 !IMPORTANT;
+    float: right;
+    width: 221px;
+    margin: 8px 0px;
+}
+}
+@media only screen and (min-width:1024px) and (max-width:1370px){
+    .pag_episodes {
+    border-bottom: none!important;
+    margin-bottom: 0 !IMPORTANT;
+    float: right;
+    width: 200px;
+    margin: 8px 0px;
+    margin-left: 18px;
+}
+.dtsingle .sidebar {
+    padding-right: 0rem!important;
+    margin-top: 0;
+}
+#elenco {
+    text-align: center;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+}
+}
+@media only screen and (min-width:0px) and (max-width:1100px){
+    .pag_episodes {
+    display: none !important;
+}
+ html, body {
+    overflow-x: hidden;
+    overflow-y: overlay;
+}
+}
+.PosterP {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.PosterP>div {
+    -ms-flex-preferred-size: calc(12.5% - 10px);
+    flex-basis: calc(12.5% - 10px);
+    margin: 0 5px 10px 5px;
+}
+.sustent {
+    position: relative!important;
+    text-align: center;
+}
+.tooltip {
+    margin: -3px 0 0!important;
+    opacity: 1!important;
+    z-index: 0!important;
+}
+.posterperfil {
+    box-shadow: 1px 1px 20px 0px #000;
+    height: 135px;
+}
+.tooltipS {
+  position:relative; /* making the .tooltip span a container for the tooltip text */
+  border-bottom:1px dashed #000; /* little indicater to indicate it's hoverable */
+}
+.tooltipS:before {
+  content: attr(data-text); /* here's the magic */
+  position:absolute;
+  
+  /* vertically center */
+  top:-70%;
+  transform:translateY(-50%);
+  
+  /* move to right */
+  left:-130%;
+  margin-left:15px; /* and add a small left margin */
+  
+  /* basic styles */
+  width:100px;
+  padding:10px;
+  border-radius:10px;
+  background:#000;
+  color: #fff;
+  text-align:center;
+
+  display:none; /* hide by default */
+}
+.tooltipS:hover:before {
+  display:block;
+}
